@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.doze;
+package com.android.settings.doze;
 
 import android.app.ActionBar;
 import android.os.Bundle;
